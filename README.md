@@ -54,25 +54,25 @@ Videojuego principal dividido en 4 capítulos con jugabilidad distintiva, la ide
 
 ### Modelos Base Realizados:
 
-[x] Catcher
-[ ] Xochi
-[ ] DJ
-[ ] Pedro
-[ ] Ernesto
-[ ] La Amalgama
-[ ] JUAN ANDRÉS (Player)
-[ ] FABIANA SOTO (Player)
-[ ] ANTONIO (Antagonista)
+- [x] Catcher
+- [ ] Xochi
+- [ ] DJ
+- [ ] Pedro
+- [ ] Ernesto
+- [ ] La Amalgama
+- [ ] JUAN ANDRÉS (Player)
+- [ ] FABIANA SOTO (Player)
+- [ ] ANTONIO (Antagonista)
 
 ### Cosas Programadas:
 
-[ ] Advertencia
-[ ] Animación de Terminal
-[ ] Menu
-[ ] Menu de Selección de Modos
-[ ] Menu de Capítulos
-[ ] Menú de Custom Night
-[ ] Oficina
-[ ] Cámaras
-[ ] IAs
+- [ ] Advertencia
+- [ ] Animación de Terminal
+- [ ] Menu
+- [ ] Menu de Selección de Modos
+- [ ] Menu de Capítulos
+- [ ] Menú de Custom Night
+- [ ] Oficina
+- [ ] Cámaras
+- [ ] IAs
 
