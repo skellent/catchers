@@ -1,19 +1,78 @@
 # Catcher's
 
-El juego se divide en tres capítulos, que a su vez están separados en tres modalidades de gameplay distinta.
+## NOTAS IMPORTANTES
 
-## Capítulos
+> Los animatrónicos tendrán modelos rotoscopicos al igual que el entorno, por decisiones de tiempo y eficiencia.
 
-### Capítulo 1 ( DEMO )
+> La fecha planteada para lanzar la DEMO del capítulo I es inicios de Abril.
 
-> Gameplay clásico de Five Nights At Freddy's
+> Aún se está planteando la posibilidad de una secuela dependiendo del recibimiento del proyecto.
 
-Eres el guardia de seguridad y tu objetivo es sobrevivir desde las 11:00 PM hasta las 12:00 AM, luego te encierras en una habitación sin saber que alguien más estaría ahí, lo último que logras hacer es llamar a tu novia para que acuda a tu rescate.
+## Proyectos de Catcher's
 
-### Capítulo 2
+### Catcher's Arcade:
 
-> Escribiendo...
+Minijuegos pixel art que cuentan fragmentos del lore (inspirado en proyectos recientes del Fazbear Fanverse). Este proyecto será el conejillo de indias para experimentar con la creación de aplicaciones Android sin dependencias a internet pero con la capacidad de actualizar el proyecto (eso último podría ser descartado).
 
-### Capítulo 3
+#### Minijuegos: 
 
-> Escribiendo...
+> (Pendiente por revisar si seguirán siendo los mismos que en la versión de Clickteam)
+
+### Catcher's:
+
+Videojuego principal dividido en 4 capítulos con jugabilidad distintiva, la idea por ahora es que se libere una DEMO con el capítulo I + Custom Night para hacer pruebas, además de una versión para Android.
+
+#### Capítulos
+
+##### - Capítulo I ( DEMO ): "Reencuentro"
+
+- Gameplay clásico de Five Nights At Freddy's en oficina, con ligeras divertades narrativas.
+- Amenazas: Catcher, Xochi, DJ, Ernesto, Pedro.
+- Tiempo: de 11:00 PM a 12:00 AM
+
+##### - Capítulo II: "¡Taco Time!"
+
+- Gameplay de la DEMO original de Catcher's (Reprogramación de los animatrónicos)
+- Amenazas: Catcher, Xochi, DJ, Pedro.
+- Tiempo: de 10:00 PM a 11:00 AM
+- Las reprogramaciones deben hacerse con mecánicas diferentes para variedad y evitar aburrimiento.
+
+##### - Capítulo III: "Rescate"
+
+- Gameplay parcialmente "free room" con similitudes a Sister Location.
+- Amenazas: Catcher y Pedro.
+- Tiempo: de 12:30 AM a (Indefinido)
+
+##### - Capítulo IV: "Escape"
+
+- Gameplay con temática de Boss Fight contra amalgama de animatrónicos.
+- Amenazas: La Amalgama.
+- Tiempo: Indefinido
+- Final del juego.
+
+## NOTAS DE DESARROLLO
+
+### Modelos Base Realizados:
+
+[x] Catcher
+[ ] Xochi
+[ ] DJ
+[ ] Pedro
+[ ] Ernesto
+[ ] La Amalgama
+[ ] JUAN ANDRÉS (Player)
+[ ] FABIANA SOTO (Player)
+[ ] ANTONIO (Antagonista)
+
+### Cosas Programadas:
+
+[ ] Advertencia
+[ ] Animación de Terminal
+[ ] Menu
+[ ] Menu de Selección de Modos
+[ ] Menu de Capítulos
+[ ] Menú de Custom Night
+[ ] Oficina
+[ ] Cámaras
+[ ] IAs
+
