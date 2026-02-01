@@ -2,31 +2,38 @@
 
 ## NOTAS IMPORTANTES
 
-> Los animatrónicos tendrán modelos rotoscopicos al igual que el entorno, por decisiones de tiempo y eficiencia.
-
-> La fecha planteada para lanzar la DEMO del capítulo I es inicios de Abril.
-
-> Aún se está planteando la posibilidad de una secuela dependiendo del recibimiento del proyecto.
+- Los animatrónicos tendrán modelos rotoscopicos al igual que el entorno,
+por decisiones de tiempo y eficiencia.
+- La fecha planteada para lanzar la DEMO del capítulo I es inicios de Abril.
+- Aún se está planteando la posibilidad de una secuela dependiendo del
+recibimiento del proyecto.
 
 ## Proyectos de Catcher's
 
-### Catcher's Arcade:
+### Catcher's Arcade
 
-Minijuegos pixel art que cuentan fragmentos del lore (inspirado en proyectos recientes del Fazbear Fanverse). Este proyecto será el conejillo de indias para experimentar con la creación de aplicaciones Android sin dependencias a internet pero con la capacidad de actualizar el proyecto (eso último podría ser descartado).
+Minijuegos pixel art que cuentan fragmentos del lore (inspirado en proyectos
+recientes del Fazbear Fanverse). Este proyecto será el conejillo de indias para
+experimentar con la creación de aplicaciones Android sin dependencias a
+internet pero con la capacidad de actualizar el proyecto (eso último podría
+ser descartado).
 
-#### Minijuegos: 
+#### Minijuegos
 
 > (Pendiente por revisar si seguirán siendo los mismos que en la versión de Clickteam)
 
-### Catcher's:
+### Descripción Técnica
 
-Videojuego principal dividido en 4 capítulos con jugabilidad distintiva, la idea por ahora es que se libere una DEMO con el capítulo I + Custom Night para hacer pruebas, además de una versión para Android.
+Videojuego principal dividido en 4 capítulos con jugabilidad distintiva, la idea
+por ahora es que se libere una DEMO con el capítulo I + Custom Night para
+hacer pruebas, además de una versión para Android.
 
 #### Capítulos
 
 ##### - Capítulo I ( DEMO ): "Reencuentro"
 
-- Gameplay clásico de Five Nights At Freddy's en oficina, con ligeras divertades narrativas.
+- Gameplay clásico de Five Nights At Freddy's en oficina, con ligeras
+libertades narrativas.
 - Amenazas: Catcher, Xochi, DJ, Ernesto, Pedro.
 - Tiempo: de 11:00 PM a 12:00 AM
 
@@ -35,7 +42,8 @@ Videojuego principal dividido en 4 capítulos con jugabilidad distintiva, la ide
 - Gameplay de la DEMO original de Catcher's (Reprogramación de los animatrónicos)
 - Amenazas: Catcher, Xochi, DJ, Pedro.
 - Tiempo: de 10:00 PM a 11:00 AM
-- Las reprogramaciones deben hacerse con mecánicas diferentes para variedad y evitar aburrimiento.
+- Las reprogramaciones deben hacerse con mecánicas diferentes para
+variedad y evitar aburrimiento.
 
 ##### - Capítulo III: "Rescate"
 
@@ -52,7 +60,7 @@ Videojuego principal dividido en 4 capítulos con jugabilidad distintiva, la ide
 
 ## NOTAS DE DESARROLLO
 
-### Modelos Base Realizados:
+### Modelos Base Realizados
 
 - [x] Catcher
 - [ ] Xochi
@@ -64,7 +72,7 @@ Videojuego principal dividido en 4 capítulos con jugabilidad distintiva, la ide
 - [ ] FABIANA SOTO (Player)
 - [ ] ANTONIO (Antagonista)
 
-### Cosas Programadas:
+### Cosas Programadas
 
 - [ ] Advertencia
 - [ ] Animación de Terminal
@@ -75,4 +83,3 @@ Videojuego principal dividido en 4 capítulos con jugabilidad distintiva, la ide
 - [ ] Oficina
 - [ ] Cámaras
 - [ ] IAs
-
